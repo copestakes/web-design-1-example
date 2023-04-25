@@ -1,3 +1,5 @@
-h1 {
-    color: red;
+.container {
+    width: 1440px;
+    margin: 0 auto;
+    background: #333;
 }
